@@ -8,7 +8,7 @@ Updating daily work, good communication skill ...
 
 ### About
 
-🎅 Passionate and creative Frontend developer with over 7 years experience.
+🎅 Passionate and creative Frontend developer with over 5 years experience.
 
 💥 Focusing on the vue.js Framework with various kinda industry.
 
